@@ -9,6 +9,7 @@
     ```
 1. Changez l’extension du fichier `.html` en `.php`.
 1. Visualisez la page `index.php` dans le fureteur en utilisant l'adresse `localhost:8000`. Elle devrait bien s’afficher malgré le changement d’extension de fichier.
+
 ## Modification
 1. Ouvrez la page `index.php` dans VSCode.
 1. Dans le **prologue** de la page (au tout début du fichier), ajoutez les balises PHP (ouvrante et fermante) afin de pouvoir ajouter du code.
